@@ -1,6 +1,6 @@
 ## नमस्ते 🙏
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailendra-yadav-74a009161/)](https://www.linkedin.com/in/shailendra-yadav-74a009161/)
-[![](https://img.shields.io/badge/Leetcode-Shailendra__NIT-orange)](https://https://leetcode.com/Shailendra_NIT/)
+[![](https://img.shields.io/badge/Leetcode-Shailendra__NIT-orange)](https://leetcode.com/Shailendra_NIT/)
 
 
 
