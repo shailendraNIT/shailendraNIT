@@ -18,7 +18,8 @@ const Shailendra = {
        }
        
        backEnd: {
-            "Node.js","Express"
+             <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+
         },
         databases: ["MongoDB", "MySql"],
         
