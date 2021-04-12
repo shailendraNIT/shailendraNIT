@@ -25,7 +25,7 @@ const Shailendra = {
         
     },
     other languages: ["python:beginner level"],
-    funFact: "Electrical Engineer by degree Software developer by Passion"
+    funFact: "Electrical Engineer by degree Software developer by Choice"
 };
 ```
 ### Tech & Tools Preference
