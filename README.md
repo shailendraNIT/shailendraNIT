@@ -10,22 +10,21 @@
 ```javascript
 const Shailendra = {
     pronouns: "He" | "Him",
-    skilled in: ["C++", "Data Structures","Algorithms"],
+    skilled in: ["C++","Java", "Data Structures","Algorithms"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
        frontEnd:{
-           "HTML", "CSS", "Bootstrap", "JQuery", "JavaScript"
+           "React","HTML", "CSS", "Bootstrap", "JQuery", "JavaScript"
        }
        
        backEnd: {
-             "Node.js" , "Express.js"
+            "SpringBoot", "Node.js" , "Express.js"
 
         },
-        databases: ["MongoDB", "MySql"],
+        databases: ["PostgreSQL","MongoDB", "MySql"],
         
     },
-    other languages: ["python:beginner level"],
-    funFact: "Electrical Engineer by degree Software developer by Choice"
+    other languages: ["python:beginner level"]
 };
 ```
 ### Tech & Tools Preference
